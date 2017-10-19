@@ -71,7 +71,7 @@ def GameStart():
         print ("Congratulations!")
 
 
-    print ("The word was " + WordToGuess)
+    print ("The word is " + WordToGuess)
     print ("Try again?")
     input()
 
